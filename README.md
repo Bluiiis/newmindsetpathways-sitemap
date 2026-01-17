@@ -1,3 +1,3 @@
 # newmindsetpathways-sitemap
 New Mindset Pathways sitemap
-<meta name="google-site-verification" content="s6nlc3YhbQqoZfgn7QXaPhSmuNPYiY5dEKzgt4G0rIo" />
+
